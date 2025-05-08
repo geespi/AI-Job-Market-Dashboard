@@ -1,0 +1,36 @@
+# Ignore Python virtual environments
+env/
+venv/
+.venv/
+
+# Ignore data files (if they are large or sensitive)
+*.csv
+*.xlsx
+*.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE settings (optional)
+.idea/
+
+# Ignore Python environment settings
+Pipfile
+Pipfile.lock
+
+# Ignore any logs or temporary files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
