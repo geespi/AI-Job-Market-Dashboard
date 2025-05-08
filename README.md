@@ -21,11 +21,12 @@ Advanced Data Filtering: Refine your analysis with dynamic filters.
 Project Structure
 
 AI_&_ML_Jobs/
-├── README.md
-├── AI_ML_Jobs_Dashboard.py
-├── final_job_list.csv (add this file to .gitignore if it's too large)
-├── requirements.txt
-└── .gitignore
+
+-README.md
+-AI_ML_Jobs_Dashboard.py
+-final_job_list.csv (add this file to .gitignore if it's too large)
+-requirements.txt
+-.gitignore
 
 
 Installation
